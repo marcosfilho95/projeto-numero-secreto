@@ -9,6 +9,6 @@ Projeto utilizado no curso de lógica de programação da Alura. Este projeto é
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 
 ## Time
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Marcos Antonio Felix</sub>]([https://github.com/camilafernanda](https://github.com/marcosfilho95)) 
+| [<img loading="lazy" src="/img/minha_imagem.jpg" width=115><br><sub>Marcos Antonio Felix</sub>]([https://github.com/camilafernanda](https://github.com/marcosfilho95)) 
 | :---: 
 
